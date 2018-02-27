@@ -1,4 +1,4 @@
-# Rails Webpacker React Frontend Example App
+# Rails Webpacker React Frontend Example App [![Build Status](https://travis-ci.org/GabLeRoux/webpacker-react-frontend.svg?branch=master)](https://travis-ci.org/GabLeRoux/webpacker-react-frontend)
 
 Demo app that showcases Rails on webpack, react, jest and yarn using Webpacker gem (default setup in upcoming Rails 5.1)
 
